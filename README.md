@@ -39,6 +39,8 @@ B1-2/
 │   │   └── 04_지금_코디세이와_시작하세요.mp3
 │   ├── bgm/
 │   │   └── Skyline Promise.mp3        # BGM (Suno)
+│   ├── image/
+│   │   └── narrator_face_image.png    # 내레이터 얼굴 사진
 │   ├── logo/
 │   │   ├── codyssey_chrome_logo.jpg   # 메탈릭 크롬 로고 (Meta AI 생성)
 │   │   ├── codyssey_chrome_logo.webp
