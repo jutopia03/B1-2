@@ -22,6 +22,8 @@
 
 ```
 B1-2/
+├── docs/
+│   └── codyssey_storyboard.pdf        # 스토리보드
 ├── final/
 │   └── codyssey_ad_final.mp4          # 최종 광고 영상 (제출본)
 ├── source/
